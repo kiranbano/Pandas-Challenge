@@ -1,1 +1,4 @@
 # Pandas-Challenge
+576 players made 780 purchases to generate the revenue of $2379.77.
+The game was mainly dominated by male players as more than 80% of the player base is male and they were more profitable then female players, while 44 % of the male players were aged between 20-24 years and almost 77% of male players were between age 15-29.
+Purchases were also dominated by the players within the agegroup of 20-24 years, The average purchase in Heroes of Pymoli is relatively low (2.93) and if we analyze the top spenders they purchased only 3-5 time  and their total purchase value is less than $20, so the majority of the revenue is generated from one or two time purchasers.
